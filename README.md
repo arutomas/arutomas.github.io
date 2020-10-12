@@ -1,2 +1,3 @@
-# Github pages
-- connectiv! Styleguide: 
+# connectiv_catalog
+
+Styleguide für connectiv!
