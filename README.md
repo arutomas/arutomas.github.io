@@ -1,2 +1,2 @@
-# some github pages
+# Github pages
 - connectiv! Styleguide: 
