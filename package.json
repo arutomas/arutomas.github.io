@@ -8,22 +8,6 @@
   },
   "scripts": {
     "catalog-start": "catalog start",
-    "catalog-build": "catalog build",
-    "deploy": "gh-pages -d catalog"
-  },
-
-  "version": "1.0.0",
-  "main": "index.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/arutomas/connectiv_catalog.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/arutomas/connectiv_catalog/issues"
-  },
-  "homepage": "https://arutomas.github.io/connectiv_catalog"
+    "catalog-build": "catalog build"
+  }
 }
