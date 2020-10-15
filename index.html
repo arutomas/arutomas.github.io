@@ -16,14 +16,18 @@
   
     <script>
 
+      import React from 'react';
+      import ReactDOM from 'react-dom';
+      import {Catalog} from 'catalog';
+
       ReactDOM.render(
-        <Catalog 
-          title="Catalog"
-          pages={pages} 
-          logoSrc={"/logo/logo_blau(RGB).svg"}
-          theme={theme}
-          />,
-        document.getElementById("catalog"),
+        <Catalog
+          title='My Styleguide'
+          basePath='/catalog'
+          pages={[
+          ]}
+         />,
+        document.getElementById('root')
       );
 
     </script>
