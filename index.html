@@ -15,6 +15,9 @@
     <script src="https://unpkg.com/catalog@3/dist/catalog-standalone.min.js"></script>
   
     <script>
+
+      import index from './static/index'
+
       Catalog.render({
         title: 'connectiv! Styleguide',
         pages: [
@@ -23,20 +26,8 @@
           title: 'connectiv! Styleguide',
           src: '/catalog/home.md'
         },
-        {
-          path: '/logo',
-          title: 'Logonutzung',
-          src: '/catalog/logo_verwendung.md',
-          pages: [ 
-            {
-            path: '/verwendung',
-            title: 'Verwendung',
-            src: '/catalog/logo_verwendung.md'
-            },
-          ]
-          },
-        ]
-      }, document.getElementById('catalog'));
+      ]
+ }, document.getElementById("catalog"));
 
     </script>
 </body>
