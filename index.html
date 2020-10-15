@@ -18,7 +18,7 @@
       Catalog.render({
         title: 'connectiv! Styleguide',
         path: "/",   
-        content: pageLoader(() => import("./static/home.md"))
+        content: pageLoader(() => import("./catalog/home.md"))
       },
 
       {
@@ -28,17 +28,17 @@
           {
           path: '/verwendung',
           title: 'Verwendung',
-          content: pageLoader(() => import("./static/logo_verwendung.md"))
+          content: pageLoader(() => import("./catalog/logo_verwendung.md"))
           },
           {
             path: '/varianten',
             title: 'Varianten',
-            content: pageLoader(() => import("./static/varianten.md"))
+            content: pageLoader(() => import("./catalog/varianten.md"))
             },
             {
               path: '/download',
               title: 'Downloads',
-              content: pageLoader(() => import("./static/download.md"))
+              content: pageLoader(() => import("./catalog/download.md"))
               },
         ]
       },
@@ -46,19 +46,19 @@
       {
         title: 'Farbpalette',
         path: '/farben',
-        content: pageLoader(() => import("./static/farben.md"))
+        content: pageLoader(() => import("./catalog/farben.md"))
       },
 
       {
         title: 'Typografie',
         path: '/typografie',
-        content: pageLoader(() => import("./static/typografie.md"))
+        content: pageLoader(() => import("./catalog/typografie.md"))
       },
 
       {
         title: 'Bildsprache',
         path: '/bildsprache',
-        content: pageLoader(() => import("./static/bildsprache.md"))
+        content: pageLoader(() => import("./catalog/bildsprache.md"))
       },
 
       {
@@ -67,27 +67,27 @@
           {
           path: '/schreibweisen',
             title: 'Schreibweisen',
-            content: pageLoader(() => import("./static/schreibweisen.md"))
+            content: pageLoader(() => import("./catalog/schreibweisen.md"))
             }, 
               {
                 path: '/abkuerzungen',
                 title: 'Abkürzungen',
-                content: pageLoader(() => import("./static/abkuerzungen.md"))
+                content: pageLoader(() => import("./catalog/abkuerzungen.md"))
                 },
                 {
                   path: '/texte',
                   title: 'Texte',
-                  content: pageLoader(() => import("./static/texte.md"))
+                  content: pageLoader(() => import("./catalog/texte.md"))
                   },
                   {
                     path: '/zielgruppe',
                     title: 'Zielgruppe',
-                    content: pageLoader(() => import("./static/zielgruppe.md"))
+                    content: pageLoader(() => import("./catalog/zielgruppe.md"))
                     },
                     {
                       path: '/schreibstil',
                       title: 'Schreibstil',
-                      content: pageLoader(() => import("./static/schreibstil.md"))
+                      content: pageLoader(() => import("./catalog/schreibstil.md"))
                       },
         ]
       }, document.getElementById('catalog'));
