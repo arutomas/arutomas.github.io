@@ -18,7 +18,7 @@
       Catalog.render({
         title: 'connectiv! Styleguide',
         path: "/",   
-        content: pageLoader(() => import("./home.md"))
+        content: pageLoader(() => import("./static/home.md"))
       },
 
       {
@@ -28,17 +28,17 @@
           {
           path: '/verwendung',
           title: 'Verwendung',
-          content: pageLoader(() => import("./logo_verwendung.md"))
+          content: pageLoader(() => import("./static/logo_verwendung.md"))
           },
           {
             path: '/varianten',
             title: 'Varianten',
-            content: pageLoader(() => import("./varianten.md"))
+            content: pageLoader(() => import("./static/varianten.md"))
             },
             {
               path: '/download',
               title: 'Downloads',
-              content: pageLoader(() => import("./download.md"))
+              content: pageLoader(() => import("./static/download.md"))
               },
         ]
       },
@@ -46,19 +46,19 @@
       {
         title: 'Farbpalette',
         path: '/farben',
-        content: pageLoader(() => import("./farben.md"))
+        content: pageLoader(() => import("./static/farben.md"))
       },
 
       {
         title: 'Typografie',
         path: '/typografie',
-        content: pageLoader(() => import("./typografie.md"))
+        content: pageLoader(() => import("./static/typografie.md"))
       },
 
       {
         title: 'Bildsprache',
         path: '/bildsprache',
-        content: pageLoader(() => import("./bildsprache.md"))
+        content: pageLoader(() => import("./static/bildsprache.md"))
       },
 
       {
@@ -67,32 +67,31 @@
           {
           path: '/schreibweisen',
             title: 'Schreibweisen',
-            content: pageLoader(() => import("./schreibweisen.md"))
+            content: pageLoader(() => import("./static/schreibweisen.md"))
             }, 
               {
                 path: '/abkuerzungen',
                 title: 'Abkürzungen',
-                content: pageLoader(() => import("./abkuerzungen.md"))
+                content: pageLoader(() => import("./static/abkuerzungen.md"))
                 },
                 {
                   path: '/texte',
                   title: 'Texte',
-                  content: pageLoader(() => import("./texte.md"))
+                  content: pageLoader(() => import("./static/texte.md"))
                   },
                   {
                     path: '/zielgruppe',
                     title: 'Zielgruppe',
-                    content: pageLoader(() => import("./zielgruppe.md"))
+                    content: pageLoader(() => import("./static/zielgruppe.md"))
                     },
                     {
                       path: '/schreibstil',
                       title: 'Schreibstil',
-                      content: pageLoader(() => import("./schreibstil.md"))
+                      content: pageLoader(() => import("./static/schreibstil.md"))
                       },
         ]
-      }, 
-      
-      document.getElementById('catalog'));
+      }, document.getElementById('catalog'));
+
     </script>
 </body>
 </html>
