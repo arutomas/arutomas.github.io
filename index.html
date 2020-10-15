@@ -16,24 +16,15 @@
   
     <script>
 
-      import React from 'react';
-      import ReactDOM from 'react-dom';
-      import {Catalog} from 'catalog';
-
-      ReactDOM.render(
-        <Catalog
-          title='My Styleguide'
-          basePath='/catalog'
-          pages={[
+      Catalog.render({
+          pages: [
             {
               title: "connectiv! Styleguide",
               path: "/",   
-              content: pageLoader(() => import("./home.md"))
+              src: '/catalog/home.md'
             }
-          ]}
-         />,
-        document.getElementById('catalog')
-      );
+          ]
+        }, document.getElementById('catalog'));
 
     </script>
 </body>
