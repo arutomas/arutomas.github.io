@@ -23,28 +23,6 @@
           title: 'connectiv! Styleguide',
           src: '/catalog/home.md'
         },
-
-        {
-        title: "Logonutzung",
-        path: "/logo",
-        pages: [ 
-          {
-          path: '/verwendung',
-          title: 'Verwendung',
-          content: pageLoader(() => import("./catalog/logo_verwendung.md"))
-          },
-          {
-            path: '/varianten',
-            title: 'Varianten',
-            content: pageLoader(() => import("./catalog/varianten.md"))
-            },
-            {
-              path: '/download',
-              title: 'Downloads',
-              content: pageLoader(() => import("./catalog/download.md"))
-              },
-        ]
-      },
       ]
 
       }, document.getElementById('catalog'));
