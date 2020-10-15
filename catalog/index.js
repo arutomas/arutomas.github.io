@@ -3,6 +3,7 @@ import ReactDOM from "react-dom";
 import { Catalog, pageLoader } from "catalog";
 import theme from './theme'
 
+export default {
 const pages = [
   {
     title: "connectiv! Styleguide",
@@ -80,7 +81,8 @@ const pages = [
                   },
     ]
   },
-];
+],
+}
 
 ReactDOM.render(
   <Catalog 
