@@ -21,7 +21,7 @@
         {
           path: '/',
           title: 'connectiv! Styleguide',
-          src: 'catalog/home.md'
+          src: '/catalog/home.md'
         },
 
         {
@@ -31,17 +31,17 @@
           {
           path: '/verwendung',
           title: 'Verwendung',
-          content: pageLoader(() => import("./logo_verwendung.md"))
+          content: pageLoader(() => import("./catalog/logo_verwendung.md"))
           },
           {
             path: '/varianten',
             title: 'Varianten',
-            content: pageLoader(() => import("./varianten.md"))
+            content: pageLoader(() => import("./catalog/varianten.md"))
             },
             {
               path: '/download',
               title: 'Downloads',
-              content: pageLoader(() => import("./download.md"))
+              content: pageLoader(() => import("./catalog/download.md"))
               },
         ]
       },
