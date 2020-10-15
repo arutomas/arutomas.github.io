@@ -25,9 +25,14 @@
           title='My Styleguide'
           basePath='/catalog'
           pages={[
+            {
+              title: "connectiv! Styleguide",
+              path: "/",   
+              content: pageLoader(() => import("./home.md"))
+            }
           ]}
          />,
-        document.getElementById('root')
+        document.getElementById('catalog')
       );
 
     </script>
