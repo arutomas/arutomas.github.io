@@ -15,26 +15,16 @@
     <script src="https://unpkg.com/catalog@3/dist/catalog-standalone.min.js"></script>
   
     <script>
-      Catalog.render({
-        title: 'connectiv! Styleguide',
-        pages: [
-        {
-          path: '/',
-          title: 'connectiv! Styleguide',
-          src: '/catalog/home.md'
-        },
-      ]
- }, document.getElementById("catalog"));
 
- ReactDOM.render(
-  <Catalog 
-    title="Catalog"
-    pages={pages} 
-    logoSrc={"/logo/logo_blau(RGB).svg"}
-    theme={theme}
-    />,
-  document.getElementById("catalog"),
-);
+      ReactDOM.render(
+        <Catalog 
+          title="Catalog"
+          pages={pages} 
+          logoSrc={"/logo/logo_blau(RGB).svg"}
+          theme={theme}
+          />,
+        document.getElementById("catalog"),
+      );
 
     </script>
 </body>
