@@ -1,6 +1,13 @@
 ## RGB - connectiv! Logo
 
 #### Blau
+
+```image
+plain: true
+src: logo/logo_blau(RGB)_klein.png
+span: 4
+```
+
 ```download|span-3
 {
     "title": "connectiv Logo blau (.svg)",
@@ -35,6 +42,13 @@ subtitle: 534 KB
 ```
 
 #### Weiß
+
+```image
+dark: true
+src: logo/logo_weiss(RGB)_klein.png
+span: 4
+```
+
 ```download|span-3
 {
     "title": "connectiv Logo weiß (.svg)",
@@ -65,6 +79,12 @@ subtitle: 502 KB
 ## CYMK - connectiv! Logo
 
 #### Blau
+
+```image
+plain: true
+src: logo/logo_blau(CMYK).png
+```
+
 ```download|span-3
 title: connectiv! Logo blau (.eps)
 url: /logo/logo_blau(CMYK).eps
