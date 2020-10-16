@@ -45,11 +45,20 @@
             },
             {
               title: "Wording bei connectiv!",
-              path: "/",   
+              path: "/wording",   
               src: '/catalog/schreibweisen.md'
             },
           ]
         }, document.getElementById('catalog'));
+
+        ReactDOM.render(
+  <Catalog 
+    title="Catalog"
+    pages={pages} 
+    logoSrc={"static/logo/logo_blau(RGB).svg"}
+    theme={theme}
+    />,
+);
 
     </script>
 </body>

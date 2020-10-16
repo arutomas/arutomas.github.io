@@ -81,13 +81,3 @@ const pages = [
     ]
   },
 ];
-
-ReactDOM.render(
-  <Catalog 
-    title="Catalog"
-    pages={pages} 
-    logoSrc={"/logo/logo_blau(RGB).svg"}
-    theme={theme}
-    />,
-  document.getElementById("catalog"),
-);
