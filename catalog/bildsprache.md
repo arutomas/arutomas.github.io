@@ -3,19 +3,19 @@
 Die folgendenden Abbildungen sollen den Newsbereich optisch abwechslungsreich gestalten. Daher sollten die abgebildeten Varianten immer abwechselnd genutzt werden. Für die Erstellung von grafisch aufwändigeren Mockups wendet euch bitte an die Grafikabteilung.
 
 ```image
-src: news/foto_mundus_redesign.jpg
+src: ../news/foto_mundus_redesign.jpg
 plain: true
 span: 2
 ```
 
 ```image
-src: news/2020-08-19_ercis-launch-pad.jpg
+src: ../news/2020-08-19_ercis-launch-pad.jpg
 plain: true
 span: 2
 ```
 
 ```image
-src: news/
+src: ../news/
 plain: true
 span: 2
 ```
@@ -33,19 +33,19 @@ span: 2
 ```
 
 ```image
-src: news/2020-08-20_microsoft-lists.jpg
+src: ../news/2020-08-20_microsoft-lists.jpg
 plain: true
 span: 2
 ```
 
 ```image
-src: news/kundentag2019_kelly.jpg
+src: ../news/kundentag2019_kelly.jpg
 plain: true
 span: 2
 ```
 
 ```image
-src: news/2020-05-13_consent-tool.jpg
+src: ../news/2020-05-13_consent-tool.jpg
 plain: true
 span: 2
 ```
@@ -69,85 +69,85 @@ Dies stellt nur eine Auswahl an möglichen Icons dar. Bei speziellerem Icon-Beda
 
 ```image
 plain: true
-src: icons/teaser_addons.png
+src: ../icons/teaser_addons.png
 span: 2
 ```
 
 ```image
 plain: true
-src: icons/teaser_crm.png
+src: ../icons/teaser_crm.png
 span: 2
 ```
 
 ```image
 plain: true
-src: icons/teaser_karriere.png
+src: ../icons/teaser_karriere.png
 span: 2
 ```
 
 ```image
 plain: true
-src: icons/teaser_partner.png
+src: ../icons/teaser_partner.png
 span: 2
 ```
 
 ```image
 plain: true
-src: icons/teaser_profil.png
+src: ../icons/teaser_profil.png
 span: 2
 ```
 
 ```image
 plain: true
-src: icons/teaser_projektmanagement.png
+src: ../icons/teaser_projektmanagement.png
 span: 2
 ```
 
 ```image
 plain: true
-src: icons/teaser_retina.png
+src: ../icons/teaser_retina.png
 span: 2
 ```
 
 ```image
 plain: true
-src: icons/teaser_rocket.png
+src: ../icons/teaser_rocket.png
 span: 2
 ```
 
 ```image
 plain: true
-src: icons/teaser_speed.png
+src: ../icons/teaser_speed.png
 span: 2
 ```
 
 ```image
 plain: true
-src: icons/teaser_team.png
+src: ../icons/teaser_team.png
 span: 2
 ```
 
 ```image
-src: icons/icon-1.png
+src: ../icons/icon-1.png
 plain: true
 span: 1
 ```
 
 ```image
 plain: true
-src: icons/icon-2.png
+src: ../icons/icon-2.png
 span: 1
 ```
 
 ```image
 plain: true
-src: icons/icon-3.png
+src: ../icons/icon-3.png
 span: 1
 ```
 
 ```image
 plain: true
-src: icons/icon-4.png
+src: ../icons/icon-4.png
 span: 1
 ```
 
@@ -156,12 +156,12 @@ Die folgende Illustration dient zur Veranschaulichung unserer visuellen Sprache 
 
 ```image
 plain: true
-src: stuff/php_entwickler_neu.jpg
+src: ../stuff/php_entwickler_neu.jpg
 span: 3
 ```
 
 ```image
 plain: true
-src: stuff/illustration_connectiv.png
+src: ../stuff/illustration_connectiv.png
 span: 3
 ```

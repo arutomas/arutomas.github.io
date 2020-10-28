@@ -7,7 +7,7 @@ oder ihr sprecht einfach unsere Grafikabteilung mal an.
 ## Schutzraum
 
 ```image
-src: /static/stuff/connectiv_logo_schutzraum.jpg
+src: ../stuff/connectiv_logo_schutzraum.jpg
 plain: true
 ```
 
@@ -16,13 +16,13 @@ plain: true
 #### So macht ihr es richtig
 
 ```image
-src: stuff/do-2.png
+src: ../stuff/do-2.png
 plain: true
 span: 3
 ```
 
 ```image
-src: stuff/do-1.png
+src: ../stuff/do-1.png
 plain: true
 span: 3
 ```
@@ -35,7 +35,7 @@ Weißes Logo auf blauen/farbigen Hintergrund oder blaues Logo auf weißen/hellen
 #### So macht ihr es falsch
 
 ```image
-src: stuff/dont-2.png
+src: ../stuff/dont-2.png
 plain: true
 span: 3
 ```
