@@ -40,17 +40,17 @@
               title: "Logonutzung",
               pages: [
                 {
-                  title: Verwendung,
+                  title: 'Verwendung',
                   path: "/logo",   
                   content: Catalog.pageLoader('/catalog/logo_verwendung.md')
                 },
                 {
-                  title: Downloads,
+                  title: 'Downloads',
                   path: "/download",   
                   content: Catalog.pageLoader('/catalog/download.md')
                 },
                 {
-                  title: Varianten,
+                  title: 'Varianten',
                   path: "/varianten",   
                   content: Catalog.pageLoader('/catalog/varianten.md')
                 },
@@ -73,9 +73,35 @@
             },
             {
               title: "Wording bei connectiv!",
-              path: "/wording",   
-              src: '/catalog/schreibweisen.md'
+              pages: [
+                {
+                  title: 'Schreibweisen',
+                  path: "/schreibweisen",   
+                  content: Catalog.pageLoader('/catalog/schreibweisen.md')
+                },
+                {
+                  title: 'Abkürzungen',
+                  path: "/abkuerzungen",   
+                  content: Catalog.pageLoader('/catalog/abkuerzungen.md')
+                },
+                {
+                  title: 'Texte',
+                  path: "/texte",   
+                  content: Catalog.pageLoader('/catalog/texte.md')
+                },
+                {
+                  title: 'Zielgruppe',
+                  path: "/zielgruppe",   
+                  content: Catalog.pageLoader('/catalog/zielgruppe.md')
+                },
+                {
+                  title: 'Schreibstil',
+                  path: "/schreibstil",   
+                  content: Catalog.pageLoader('/catalog/schreibstil.md')
+                },
+              ],
             },
+
           ]
         }, document.getElementById('catalog'));
     </script>
