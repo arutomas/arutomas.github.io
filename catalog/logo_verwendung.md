@@ -7,7 +7,7 @@ oder ihr sprecht einfach unsere Grafikabteilung mal an.
 ## Schutzraum
 
 ```image
-src: catalog/static/stuff/connectiv_logo_schutzraum.jpg
+src: /static/stuff/connectiv_logo_schutzraum.jpg
 plain: true
 ```
 
