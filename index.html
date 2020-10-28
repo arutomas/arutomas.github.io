@@ -18,7 +18,18 @@
 
       Catalog.render({
           logoSrc: '../logo/logo_blau(RGB).svg',
-          theme: '/theme.js',
+          theme: {
+            fontFamily: "'Roboto', sans-serif",
+            fontHeading: "'Futura Md Bt', sans-serif",
+            fontMono: "'Roboto Mono', monospace",
+            pageHeadingBackground: "#2061a4",
+            brandColor: "#2061a4",
+            sidebarColor: "#FFFFFF",
+            sidebarColorText: "#2061a4",
+            sidebarColorTextActive: "#153F69",
+            sidebarColorLine: "#EBEBEB",
+            sidebarColorHeading: "#003B5C",
+          },
           pages: [
             {
               title: "connectiv! Styleguide",
