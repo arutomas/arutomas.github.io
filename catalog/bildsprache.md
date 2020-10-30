@@ -3,36 +3,6 @@
 Die folgendenden Abbildungen sollen den Newsbereich optisch abwechslungsreich gestalten. Daher sollten die abgebildeten Varianten immer abwechselnd genutzt werden. Für die Erstellung von grafisch aufwändigeren Mockups wendet euch bitte an die Grafikabteilung.
 
 ```image
-src: ../news/foto_mundus_redesign.jpg
-plain: true
-span: 2
-```
-
-```image
-src: ../news/2020-08-19_ercis-launch-pad.jpg
-plain: true
-span: 2
-```
-
-```image
-src: ../news/
-plain: true
-span: 2
-```
-
-```hint|span-2
-**Monitor:** Kunden (Referenzen / GoLive)
-```
-
-```hint|span-2
-**Kalender:** externe Events
-```
-
-```hint|span-2
-**Collage:** interne Events 
-```
-
-```image
 src: ../news/2020-08-20_microsoft-lists.jpg
 plain: true
 span: 2
@@ -60,6 +30,26 @@ span: 2
 
 ```hint|span-2
 **Poster:** Logos / Icons / Images
+```
+
+```image
+src: ../news/foto_mundus_redesign.jpg
+plain: true
+span: 2
+```
+
+```image
+src: ../news/2020-08-19_ercis-launch-pad.jpg
+plain: true
+span: 2
+```
+
+```hint|span-2
+**Monitor:** Kunden (Referenzen / GoLive)
+```
+
+```hint|span-2
+**Kalender:** externe Events
 ```
 
 ## Gestaltungselemente
