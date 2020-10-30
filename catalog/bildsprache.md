@@ -41,7 +41,7 @@ span: 2
 ```image
 src: ../news/2020-08-19_ercis-launch-pad.jpg
 plain: true
-span: 2
+span: 3
 ```
 
 ```hint|span-2
