@@ -3,51 +3,21 @@
 Für die Erstellung von grafisch aufwändigeren Mockups wendet euch bitte an die Grafikabteilung.
 
 ```image
-src: ../news/2020-08-20_microsoft-lists.jpg
-plain: true
-span: 2
-```
-
-```image
-src: ../news/kundentag2019_kelly.jpg
-plain: true
-span: 2
-```
-
-```image
-src: ../news/2020-05-13_consent-tool.jpg
-plain: true
-span: 2
-```
-
-```hint|span-2
-**Surface:** andere Themen
-```
-
-```hint|span-2
-**Blauen Rahmen:** Personen (Fotos) 
-```
-
-```hint|span-2
-**Poster:** Logos / Icons / Images
-```
-
-```image
-src: ../news/foto_mundus_redesign.jpg
-plain: true
-span: 2
-```
-
-```image
-src: ../news/2020-08-19_ercis-launch-pad.jpg
+src: ../news/Desktop-News.png
 plain: true
 span: 3
 ```
 
-```hint|span-2
-**Monitor:** Kunden (Referenzen / GoLive)
+```image
+src: ../news/Social_Media.png
+plain: true
+span: 3
 ```
 
-```hint|span-2
-**Kalender:** externe Events
+```hint|span-3
+**Layout für Website-News**
+```
+
+```hint|span-3
+**Layout für Social-News:** Xing, LinkedIn, Instagram, Facebook
 ```
