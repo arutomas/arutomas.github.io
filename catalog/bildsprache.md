@@ -52,7 +52,7 @@ span: 3
 **Kalender:** externe Events
 ```
 
-//## Gestaltungselemente
+<!-- //## Gestaltungselemente
 
 //#### Icons
 //Dies stellt nur eine Auswahl an möglichen Icons dar. Bei speziellerem Icon-Bedarf meldet euch bitte in der Grafikabteilung.
@@ -141,17 +141,17 @@ src: ../icons/icon-4.png
 span: 1
 ```
 
-//#### Illustrationen 
-//Die folgende Illustration dient zur Veranschaulichung unserer visuellen Sprache bei Illustrationen. Für die Erstellung solcher Illustrationen wendet euch bitte an die Grafikabteilung.
+#### Illustrationen 
+Die folgende Illustration dient zur Veranschaulichung unserer visuellen Sprache bei Illustrationen. Für die Erstellung solcher Illustrationen wendet euch bitte an die Grafikabteilung.
 
-//```image
-//plain: true
-//src: ../stuff/php_entwickler_neu.jpg
-//span: 3
-//```
+```image
+plain: true
+src: ../stuff/php_entwickler_neu.jpg
+span: 3
+```
 
-//```image
-//plain: true
-//src: ../stuff/illustration_connectiv.png
-//span: 3
-//```
+```image
+plain: true
+src: ../stuff/illustration_connectiv.png
+span: 3
+`` --->
