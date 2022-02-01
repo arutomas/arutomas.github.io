@@ -1,6 +1,6 @@
 ## Verwendung von Mockups für News
 
-Die folgendenden Abbildungen sollen den Newsbereich optisch abwechslungsreich gestalten. Daher sollten die abgebildeten Varianten immer abwechselnd genutzt werden. Für die Erstellung von grafisch aufwändigeren Mockups wendet euch bitte an die Grafikabteilung.
+Für die Erstellung von grafisch aufwändigeren Mockups wendet euch bitte an die Grafikabteilung.
 
 ```image
 src: ../news/2020-08-20_microsoft-lists.jpg
@@ -52,57 +52,57 @@ span: 3
 **Kalender:** externe Events
 ```
 
-## Gestaltungselemente
+//## Gestaltungselemente
 
-#### Icons
-Dies stellt nur eine Auswahl an möglichen Icons dar. Bei speziellerem Icon-Bedarf meldet euch bitte in der Grafikabteilung.
+//#### Icons
+//Dies stellt nur eine Auswahl an möglichen Icons dar. Bei speziellerem Icon-Bedarf meldet euch bitte in der Grafikabteilung.
 
-```image
-plain: true
-src: ../icons/teaser_addons.png
-span: 2
-```
+//```image
+//plain: true
+//src: ../icons/teaser_addons.png
+//span: 2
+//```
 
-```image
-plain: true
-src: ../icons/teaser_crm.png
-span: 2
-```
+//```image
+//plain: true
+//src: ../icons/teaser_crm.png
+//span: 2
+//```
 
-```image
-plain: true
-src: ../icons/teaser_karriere.png
-span: 2
-```
+//```image
+//plain: true
+//src: ../icons/teaser_karriere.png
+//span: 2
+//```
 
-```image
-plain: true
-src: ../icons/teaser_partner.png
-span: 2
-```
+//```image
+//plain: true
+//src: ../icons/teaser_partner.png
+//span: 2
+//```
 
-```image
-plain: true
-src: ../icons/teaser_profil.png
-span: 2
-```
+//```image
+//plain: true
+//src: ../icons/teaser_profil.png
+//span: 2
+//```
 
-```image
-plain: true
-src: ../icons/teaser_projektmanagement.png
-span: 2
-```
+//```image
+//plain: true
+//src: ../icons/teaser_projektmanagement.png
+//span: 2
+//```
 
-```image
-plain: true
-src: ../icons/teaser_retina.png
-span: 2
-```
+//```image
+//plain: true
+//src: ../icons/teaser_retina.png
+//span: 2
+//```
 
-```image
-plain: true
-src: ../icons/teaser_rocket.png
-span: 2
+//```image
+//plain: true
+//src: ../icons/teaser_rocket.png
+//span: 2
 ```
 
 ```image
@@ -141,17 +141,17 @@ src: ../icons/icon-4.png
 span: 1
 ```
 
-#### Illustrationen 
-Die folgende Illustration dient zur Veranschaulichung unserer visuellen Sprache bei Illustrationen. Für die Erstellung solcher Illustrationen wendet euch bitte an die Grafikabteilung.
+//#### Illustrationen 
+//Die folgende Illustration dient zur Veranschaulichung unserer visuellen Sprache bei Illustrationen. Für die Erstellung solcher Illustrationen wendet euch bitte an die Grafikabteilung.
 
-```image
-plain: true
-src: ../stuff/php_entwickler_neu.jpg
-span: 3
-```
+//```image
+//plain: true
+//src: ../stuff/php_entwickler_neu.jpg
+//span: 3
+//```
 
-```image
-plain: true
-src: ../stuff/illustration_connectiv.png
-span: 3
-```
+//```image
+//plain: true
+//src: ../stuff/illustration_connectiv.png
+//span: 3
+//```

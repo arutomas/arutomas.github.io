@@ -3,7 +3,7 @@
 
 #### Primärfarben
 ```color
-value: '#2061a4'
+value: '#0672AA'
 name: 'connectiv! Blau'
 span: 3
 ```
@@ -28,13 +28,15 @@ colors:
 
 ### Digital/Web
 
-**RGB**: R: 32 / G: 95 / B: 164
-**Hex-Code**: #2061a4
+**RGB**: R: 6 / G: 114 / B: 170
+**Hex-Code**: #0672AA
 
 
 ### Druckfarben/Sonderfarben
 
-**CMYK**: C: 87% / M: 61% / Y: 3% / K: 0% 
-**PANTONE**: 3506 C
-**HSK**: 44
-**RAL**: 5017
+**CMYK**: C: 87% / M: 47% / Y: 12% / K: 1% 
+**PANTONE**: tbd (300)
+**HKS**: tbd (44)
+**RAL**: tbd (5015)
+**LAB**: L: 45 / a: -11 / b: -38
+**HSB**: H: 200° / S: 96% / B: 67%
