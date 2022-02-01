@@ -55,7 +55,7 @@ span: 3
 ## Gestaltungselemente
 
 #### Icons
-<!-- //Dies stellt nur eine Auswahl an möglichen Icons dar. Bei speziellerem Icon-Bedarf meldet euch bitte in der Grafikabteilung. -->
+[Dies stellt nur eine Auswahl an möglichen Icons dar. Bei speziellerem Icon-Bedarf meldet euch bitte in der Grafikabteilung.]
 
 ```image
 plain: true
