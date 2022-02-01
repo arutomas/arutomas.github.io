@@ -52,57 +52,57 @@ span: 3
 **Kalender:** externe Events
 ```
 
-<!-- //## Gestaltungselemente
+## Gestaltungselemente
 
-//#### Icons
-//Dies stellt nur eine Auswahl an möglichen Icons dar. Bei speziellerem Icon-Bedarf meldet euch bitte in der Grafikabteilung.
+#### Icons
+<!-- //Dies stellt nur eine Auswahl an möglichen Icons dar. Bei speziellerem Icon-Bedarf meldet euch bitte in der Grafikabteilung. -->
 
-//```image
-//plain: true
-//src: ../icons/teaser_addons.png
-//span: 2
-//```
+```image
+plain: true
+src: ../icons/teaser_addons.png
+span: 2
+```
 
-//```image
-//plain: true
-//src: ../icons/teaser_crm.png
-//span: 2
-//```
+```image
+plain: true
+src: ../icons/teaser_crm.png
+span: 2
+```
 
-//```image
-//plain: true
-//src: ../icons/teaser_karriere.png
-//span: 2
-//```
+```image
+plain: true
+src: ../icons/teaser_karriere.png
+span: 2
+```
 
-//```image
-//plain: true
-//src: ../icons/teaser_partner.png
-//span: 2
-//```
+```image
+plain: true
+src: ../icons/teaser_partner.png
+span: 2
+```
 
-//```image
-//plain: true
-//src: ../icons/teaser_profil.png
-//span: 2
-//```
+```image
+plain: true
+src: ../icons/teaser_profil.png
+span: 2
+```
 
-//```image
-//plain: true
-//src: ../icons/teaser_projektmanagement.png
-//span: 2
-//```
+```image
+plain: true
+src: ../icons/teaser_projektmanagement.png
+span: 2
+```
 
-//```image
-//plain: true
-//src: ../icons/teaser_retina.png
-//span: 2
-//```
+```image
+plain: true
+src: ../icons/teaser_retina.png
+span: 2
+```
 
-//```image
-//plain: true
-//src: ../icons/teaser_rocket.png
-//span: 2
+```image
+plain: true
+src: ../icons/teaser_rocket.png
+span: 2
 ```
 
 ```image
@@ -154,4 +154,4 @@ span: 3
 plain: true
 src: ../stuff/illustration_connectiv.png
 span: 3
-`` --->
+``
