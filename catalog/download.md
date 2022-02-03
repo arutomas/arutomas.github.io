@@ -12,7 +12,7 @@ span: 4
 {
     "title": "connectiv Logo blau (.svg)",
     "filename": "logo_blau(RGB).svg",
-    "subtitle": "8 KB",
+    "subtitle": "10 KB",
     "url": "../logo/logo_blau(RGB).svg"
 }
 ```
@@ -20,25 +20,25 @@ span: 4
 ```download|span-3
 title: connectiv! Logo blau (.png)
 url: ../logo/logo_blau(RGB).png
-subtitle: 100 KB
+subtitle: 76,7 KB
 ```
 
 ```download|span-3
 title: connectiv! Logo blau (.jpg)
 url: ../logo/logo_blau(RGB).jpg
-subtitle: 232 KB
+subtitle: 176 KB
 ```
 
 ```download|span-3
 title: connectiv! Logo blau (.pdf)
 url: ../logo/logo_blau(RGB).pdf
-subtitle: 243 KB
+subtitle: 249 KB
 ```
 
 ```download|span-3
 title: connectiv! Logo blau (.eps)
 url: ../logo/logo_blau(RGB).eps
-subtitle: 534 KB
+subtitle: 266 KB
 ```
 
 #### Weiß
@@ -53,7 +53,7 @@ span: 4
 {
     "title": "connectiv Logo weiß (.svg)",
     "filename": "logo_weiss(RGB).svg",
-    "subtitle": "8 KB",
+    "subtitle": "9,58 KB",
     "url": "../logo/logo_weiss(RGB).svg"
 }
 ```
@@ -61,19 +61,19 @@ span: 4
 ```download|span-3
 title: connectiv! Logo weiß (.png)
 url: ../logo/logo_weiss(RGB).png
-subtitle: 36 KB
+subtitle: 40,3 KB
 ```
 
 ```download|span-3
 title: connectiv! Logo weiß (.pdf)
 url: ../logo/logo_weiss(RGB).pdf
-subtitle: 207 KB
+subtitle: 206 KB
 ```
 
 ```download|span-3
 title: connectiv! Logo weiß (.eps)
 url: ../logo/logo_weiss(RGB).eps
-subtitle: 502 KB
+subtitle: 228 KB
 ```
 
 ## CYMK - connectiv! Logo
@@ -88,22 +88,22 @@ src: ../logo/logo_blau(CMYK)_klein.png
 ```download|span-3
 title: connectiv! Logo blau (.eps)
 url: ../logo/logo_blau(CMYK).eps
-subtitle: 549 KB
+subtitle: 819 KB
 ```
 
 ```download|span-3
 title: connectiv! Logo blau (.png)
 url: ../logo/logo_blau(CMYK).png
-subtitle: 7 KB
+subtitle: 39 KB
 ```
 ```download|span-3
 title: connectiv! Logo blau (.pdf)
 url: ../logo/logo_blau(CMYK).pdf
-subtitle: 223 KB
+subtitle: 231 KB
 ```
 
 ```download|span-3
 title: connectiv! Logo blau (.jpg)
 url: ../logo/logo_blau(CMYK).jpg
-subtitle: 800 KB
+subtitle: 177 KB
 ```

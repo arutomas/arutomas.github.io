@@ -3,6 +3,12 @@ import ReactDOM from "react-dom";
 import { Catalog, pageLoader } from "catalog";
 import theme from './theme'
 
+const App = () => {
+  useEffect(() => {
+    document.title = "connectiv! Styleguide"
+  }, [])
+};
+
 const pages = [
   {
     title: "connectiv! Styleguide",
