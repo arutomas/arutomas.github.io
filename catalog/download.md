@@ -82,7 +82,7 @@ subtitle: 502 KB
 
 ```image
 plain: true
-src: ../logo/logo_blau(CMYK).png
+src: ../logo/logo_blau(CMYK)_klein.png
 ```
 
 ```download|span-3
