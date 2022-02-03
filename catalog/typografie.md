@@ -6,19 +6,19 @@ Farbe ist dann abhängig, wo es genutzt wird.
 ```type
 {
   "headings": [46,40,26],
-  "font": "Futura Md Bt",
+  "font": "Futura Bold Bt",
   "color": "#333333",
 }
 ```
 
 # Subheadlines
 
-Für Subheadlines nutzen wir die **Futura Lt BT** Futura Light BT (Schriftstärke 400).
+Für Subheadlines nutzen wir die **Futura Lt BT** also Futura Light BT (Schriftstärke 400).
 Farbe ist dann abhängig, wo es genutzt wird.
 
 ```type
 {
-  "headings": [24/36],
+  "headings": [24],
   "font": "Futura Lt Bt",
   "color": "#333333",
 }
@@ -41,10 +41,10 @@ Farbe ist dann abhängig, wo es genutzt wird.
 ```type
 {
   "color": "#333333",
-  "font": "Futura BT",
+  "font": "Futura Md BT",
   "headings": [
     { "label": "H2", "value": 24, "font-weight": 500, },
-    { "label": "H1", "value": 46, "font-weight": 500, }
+    { "label": "H1", "value": 46, "font-weight": 700, }
   ],
   "paragraphs": [
     { "label": "Paragraph", "value": "20/28", "font-weight": 400, }
