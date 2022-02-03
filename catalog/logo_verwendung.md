@@ -16,13 +16,13 @@ plain: true
 #### So macht ihr es richtig
 
 ```image
-src: ../stuff/do-2.png
+src: ../stuff/do-1.png
 plain: true
 span: 3
 ```
 
 ```image
-src: ../stuff/do-1.png
+src: ../stuff/do-2.png
 plain: true
 span: 3
 ```
@@ -35,13 +35,13 @@ Weißes Logo auf blauen/farbigen Hintergrund oder blaues Logo auf weißen/hellen
 #### So macht ihr es falsch
 
 ```image
-src: ../stuff/dont-2.png
+src: ../stuff/dont-1.png
 plain: true
 span: 3
 ```
 
 ```image
-src: stuff/dont-4.png
+src: stuff/dont-2.png
 plain: true
 span: 3
 ```
@@ -52,13 +52,13 @@ Bitte das Logo **nicht im gleichen Farbton** nutzen sowie **nicht ohne Hintergru
 ```
 
 ```image
-src: stuff/dont-1.png
+src: stuff/dont-3.png
 plain: true
 span: 3
 ```
 
 ```image
-src: stuff/dont-3.png
+src: stuff/dont-4.png
 plain: true
 span: 3
 ```
