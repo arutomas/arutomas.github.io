@@ -6,8 +6,9 @@ Farbe ist dann abhängig, wo es genutzt wird.
 ```type
 {
   "headings": [46,40,26],
-  "font": "Futura Bold Bt",
+  "font": "Futura Md Bt",
   "color": "#333333",
+  "font-weight": 700,
 }
 ```
 
@@ -43,7 +44,7 @@ Farbe ist dann abhängig, wo es genutzt wird.
   "color": "#333333",
   "font": "Futura Md BT",
   "headings": [
-    { "label": "H2", "value": 24, "font-weight": 500, },
+    { "label": "H2", "value": 24, "font-weight": 400, },
     { "label": "H1", "value": 46, "font-weight": 700, }
   ],
   "paragraphs": [
