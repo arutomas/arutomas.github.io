@@ -42,11 +42,26 @@ Farbe ist dann abhängig, wo es genutzt wird.
 ```type
 {
   "color": "#333333",
-  "font": "Futura Md BT",
+  "font": "Futura Lt BT",
   "headings": [
-    { "label": "H2", "value": 24, "weight": 400, },
-    { "label": "H1", "value": 46, "weight": 700, }
+    { "label": "H2", "value": 24, },
   ],
+}
+```
+
+```type
+{
+  "headings": [46],
+  "font": "Futura Md Bt",
+  "color": "#333333",
+  "weight": 700,
+}
+```
+
+```type
+{
+  "color": "#333333",
+  "font": "Futura Lt BT",
   "paragraphs": [
     { "label": "Paragraph", "value": "20/28", "font-weight": 400, }
   ]
