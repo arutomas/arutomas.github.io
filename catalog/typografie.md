@@ -1,24 +1,25 @@
 # Headlines
 
-Für Headlines nutzen wir die **Futura Md BT** also Futura Medium BT (Schriftstärke 500).
+Für Headlines nutzen wir die **Futura Bold BT** also Futura Bold BT (Schriftstärke 700).
 Farbe ist dann abhängig, wo es genutzt wird.
 
 ```type
 {
-  "headings": [38,28,20],
+  "headings": [46,40,26],
   "font": "Futura Md Bt",
   "color": "#333333",
+  "weight": 700,
 }
 ```
 
 # Subheadlines
 
-Für Subheadlines nutzen wir die **Futura Lt BT** Futura Light BT (Schriftstärke 400).
+Für Subheadlines nutzen wir die **Futura Lt BT** also Futura Light BT (Schriftstärke 400).
 Farbe ist dann abhängig, wo es genutzt wird.
 
 ```type
 {
-  "headings": [20],
+  "headings": [24],
   "font": "Futura Lt Bt",
   "color": "#333333",
 }
@@ -30,7 +31,7 @@ Farbe ist dann abhängig, wo es genutzt wird.
 
 ```type
 {
-  "paragraphs": ["16/22.85"],
+  "paragraphs": ["20/28"],
   "font": "Futura Lt Bt",
   "color": "#333333",
 }
@@ -43,11 +44,26 @@ Farbe ist dann abhängig, wo es genutzt wird.
   "color": "#333333",
   "font": "Futura Lt BT",
   "headings": [
-    { "label": "H1", "value": 38, "font-weight": 500, },
-    { "label": "H2", "value": 20, "font-weight": 500, }
+    { "label": "H2", "value": 24, },
   ],
+}
+```
+
+```type
+{
+  "headings": [46],
+  "font": "Futura Md Bt",
+  "color": "#333333",
+  "weight": 700,
+}
+```
+
+```type
+{
+  "color": "#333333",
+  "font": "Futura Lt BT",
   "paragraphs": [
-    { "label": "Paragraph", "value": "16/22.85", "font-weight": 400, }
+    { "label": "Paragraph", "value": "20/28", "font-weight": 400, }
   ]
 }
 ```

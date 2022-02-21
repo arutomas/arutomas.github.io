@@ -5,13 +5,6 @@
 ```color
 value: '#0672AA'
 name: 'connectiv! Blau'
-span: 3
-```
-
-```color
-value: '#F1E200'
-name: 'connectiv! Gelb'
-span: 3
 ```
 
 #### Graustufen
