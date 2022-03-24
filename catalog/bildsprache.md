@@ -1,7 +1,5 @@
 ## Verwendung von Mockups für News
 
-Für die Erstellung von grafisch aufwändigeren Mockups wendet euch bitte an die Grafikabteilung.
-
 ```image
 src: ../news/Desktop-News.png
 plain: true
@@ -21,3 +19,5 @@ span: 3
 ```hint|span-3
 **Layout für Social-News:** Xing, LinkedIn, Instagram, Facebook
 ```
+
+Für die Erstellung von grafisch aufwändigeren Mockups wendet euch bitte an die Grafikabteilung.

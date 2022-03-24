@@ -1,7 +1,7 @@
 
 # Farbwerte
 
-#### Primärfarben
+#### Primärfarbe
 ```color
 value: '#0672AA'
 name: 'connectiv! Blau'

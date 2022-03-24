@@ -47,8 +47,20 @@ const pages = [
   {
     title: 'Typografie',
     path: '/typografie',
-    content: pageLoader(() => import("./typografie.md"))
+    pages: [
+    {
+      path: '/typografie-im-web',
+      title: 'Typografie im Web',
+      content: pageLoader(() => import("./typografie_im_web.md"))
+      },
+      {
+        path: '/typografie-fuer-dokumente',
+          title: 'Typografie für Dokumente',
+          content: pageLoader(() => import("./typografie_fuer_dokumente.md"))
+          },
+    ]
   },
+
 
   {
     title: 'Bildsprache',

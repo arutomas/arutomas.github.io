@@ -1,4 +1,4 @@
-Falls ihr Bedarf an weiteren Logos habt für unsere Produkte und Dienstleistungen wendet euch bitte an die Grafikabteilung.
+Falls ihr Bedarf an weiteren Logos habt für unsere Produkte und Dienstleistungen, wendet euch bitte an die Grafikabteilung.
 
 ```image
 src: ../stuff/connect_x.png

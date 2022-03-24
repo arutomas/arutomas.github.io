@@ -1,7 +1,7 @@
 # Headlines
 
 Für Headlines nutzen wir die **Futura Bold BT** also Futura Bold BT (Schriftstärke 700).
-Farbe ist dann abhängig, wo es genutzt wird.
+Farbe ist abhängig von der Nutzungsart.
 
 ```type
 {
@@ -15,7 +15,7 @@ Farbe ist dann abhängig, wo es genutzt wird.
 # Subheadlines
 
 Für Subheadlines nutzen wir die **Futura Lt BT** also Futura Light BT (Schriftstärke 400).
-Farbe ist dann abhängig, wo es genutzt wird.
+Farbe ist abhängig von der Nutzungsart.
 
 ```type
 {
@@ -27,7 +27,7 @@ Farbe ist dann abhängig, wo es genutzt wird.
 # Paragraph / Fließtext
 
 Für Fließtext nutzen wir die **Futura Lt BT** also Futura Light BT (Schriftstärke 400).
-Farbe ist dann abhängig, wo es genutzt wird.
+Farbe ist abhängig von der Nutzungsart.
 
 ```type
 {
