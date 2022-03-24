@@ -86,7 +86,6 @@ const pages = [
               title: 'Texte',
               content: pageLoader(() => import("./texte.md"))
               },
-              {
     ]
   },
 ];
