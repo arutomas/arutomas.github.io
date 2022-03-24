@@ -87,15 +87,6 @@ const pages = [
               content: pageLoader(() => import("./texte.md"))
               },
               {
-                path: '/zielgruppe',
-                title: 'Zielgruppe',
-                content: pageLoader(() => import("./zielgruppe.md"))
-                },
-                {
-                  path: '/schreibstil',
-                  title: 'Schreibstil',
-                  content: pageLoader(() => import("./schreibstil.md"))
-                  },
     ]
   },
 ];
