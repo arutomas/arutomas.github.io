@@ -7,6 +7,7 @@ in weiß:
 src: ../stuff/connectx_weiss.png
 plain: true
 span: 2
+```
 
 oder in blau:
 
@@ -15,7 +16,6 @@ src: ../stuff/connectx_blau.png
 plain: true
 span: 2
 ```
-
 
 Anderweits schreiben wir diese Anhängsel auch unter unser Logo:
 - WEB | CRM
