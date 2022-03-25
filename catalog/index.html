@@ -4,100 +4,10 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <link rel="shortcut icon" type="image/png" href="../stuff/favicon.png">
+  <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.png">
   <title>connectiv! Styleguide</title>
 </head>
 <body>
-  <div id="catalog">
-
-    <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
-  
-    <script src="https://unpkg.com/catalog@3/dist/catalog-standalone.min.js"></script>
-  
-    <script>
-
-      Catalog.render({
-          logoSrc: '../logo/logo_blau(RGB).svg',
-          theme: {
-            fontFamily: "'Roboto', sans-serif",
-            fontHeading: "'Futura Md Bt', sans-serif",
-            fontMono: "'Roboto Mono', monospace",
-            pageHeadingBackground: "#0672AA",
-            brandColor: "#0672AA",
-            sidebarColor: "#FFFFFF",
-            sidebarColorText: "#0672AA",
-            sidebarColorTextActive: "#153F69",
-            sidebarColorLine: "#EBEBEB",
-            sidebarColorHeading: "#003B5C",
-          },
-          pages: [
-            {
-              title: "connectiv! Styleguide",  
-              src: '/catalog/home.md'
-            },
-            {
-              title: "Logonutzung",
-              pages: [
-                {
-                  title: 'Verwendung',
-                  path: "/logo",   
-                  content: Catalog.pageLoader('/catalog/logo_verwendung.md')
-                },
-                {
-                  title: 'Downloads',
-                  path: "/download",   
-                  content: Catalog.pageLoader('/catalog/download.md')
-                },
-                {
-                  title: 'Varianten',
-                  path: "/varianten",   
-                  content: Catalog.pageLoader('/catalog/varianten.md')
-                },
-              ],
-            },
-            {
-              title: "Farbpalette",
-              path: "/farben",   
-              src: '/catalog/farben.md'
-            },
-            {
-            title: "Typografie",
-              pages: [
-                {
-                  title: 'Typografie im Web',
-                  path: "/typografie-im-web",   
-                  content: Catalog.pageLoader('/catalog/typografie_web.md')
-                },
-                {
-                  title: 'Typografie für Dokumente',
-                  path: "/typografie-fuer-dokumente",   
-                  content: Catalog.pageLoader('/catalog/typografie_dokumente.md')
-                },
-              ]
-            },
-            {
-              title: "Bildsprache",
-              path: "/bildsprache",   
-              src: '/catalog/bildsprache.md'
-            },
-            {
-              title: "Wording bei connectiv!",
-              pages: [
-                {
-                  title: 'Schreibweisen',
-                  path: "/schreibweisen",   
-                  content: Catalog.pageLoader('/catalog/schreibweisen.md')
-                },
-                {
-                  title: 'Texte',
-                  path: "/texte",   
-                  content: Catalog.pageLoader('/catalog/texte.md')
-                },
-              ],
-            },
-
-          ]
-        }, document.getElementById('catalog'));
-    </script>
+  <div id="catalog"></div>
 </body>
 </html>
