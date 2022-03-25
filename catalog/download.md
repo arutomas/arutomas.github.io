@@ -45,7 +45,7 @@ subtitle: 266 KB
 
 ```image
 plain: true
-src: ../logo/logo_blau_weiss.png
+src: ../logo/logo_weiss_klein.png
 span: 4
 ```
 
