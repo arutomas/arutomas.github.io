@@ -1,27 +1,44 @@
 # Headlines
 
-Für Headlines nutzen wir die **Futura Bold BT** also Futura Bold BT (Schriftstärke 700).
-Farbe ist abhängig von der Nutzungsart.
+Für Headlines nutzen wir die **Futura Md BT** also Futura Medium BT.
+
+Entweder blaue Schrift auf weißem Grund:
 
 ```type
 {
-  "headings": [46,40,26],
+  "headings": [36],
   "font": "Futura Md Bt",
-  "color": "#333333",
-  "weight": 700,
+  "background":"#FFFFFF",
+  "color": "#0672AA",
+  "weight": 500,
 }
 ```
 
-
-# Fließtext
-
-Für Fließtext nutzen wir die **Futura Lt BT** also Futura Light BT (Schriftstärke 400).
-Farbe ist abhängig von der Nutzungsart.
+Oder weiße Schrift auf blauem Grund:
 
 ```type
 {
-  "paragraphs": ["20/28"],
+  "headings": [36],
+  "font": "Futura Md Bt",
+  "background": "#0672AA",
+  "color": "#FFFFFF",
+  "weight": 500,
+}
+```
+
+# Fließtext
+
+Für Fließtext nutzen wir die **Futura Lt BT** also Futura Light BT.
+Farbe ist abhängig von der Nutzungsart. Entweder unser Firmenblau, ein Grauton oder
+Weiß auf einem anderen Hintergrund.
+
+Das ist ein Beispiel mit einem Grauton auf weißem Grund:
+
+```type
+{
+  "paragraphs": ["15/28"],
+  "background": "#333333";
   "font": "Futura Lt Bt",
-  "color": "#333333",
+  "color": "#3",
 }
 ```
