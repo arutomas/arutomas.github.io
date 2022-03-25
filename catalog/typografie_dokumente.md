@@ -36,14 +36,6 @@ Das ist ein Beispiel mit einem Grauton auf weißem Grund:
 
 ```type
 {
-  "paragraphs": [15/28],
-  "background": "#FFFFFF";
-  "font": "Futura Lt Bt",
-  "color": "#333333",
-}
-```
-
-{
   "color": "#333333",
   "background":"FFFFFF",
   "font": "Futura Lt BT",
@@ -51,3 +43,4 @@ Das ist ein Beispiel mit einem Grauton auf weißem Grund:
     { "label": "Fließtext", "value": "15/22", "font-weight": 400, }
   ]
 }
+```
