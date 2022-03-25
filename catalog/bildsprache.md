@@ -21,3 +21,4 @@ span: 3
 ```
 
 Für die Erstellung von grafisch aufwändigeren Mockups, wendet euch bitte an die Grafikabteilung.
+Gegebenenfalls können einfache News mit den Vorlagen in https://www.canva.com erstellt werden.

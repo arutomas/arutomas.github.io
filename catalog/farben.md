@@ -7,6 +7,11 @@ value: '#0672AA'
 name: 'connectiv! Blau'
 ```
 
+```color
+value: '#FFFFFF'
+name: 'Weiß'
+```
+
 #### Graustufen
 
 ```color-palette|horizontal

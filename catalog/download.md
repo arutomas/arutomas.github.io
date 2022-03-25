@@ -4,7 +4,7 @@
 
 ```image
 plain: true
-src: ../stuff/do-1.png
+src: ../stuff/do-2.png
 span: 4
 ```
 
@@ -44,7 +44,8 @@ subtitle: 266 KB
 #### Weiß
 
 ```image
-src: ../stuff/do-2.png
+plain: true
+src: ../stuff/do-1.png
 span: 4
 ```
 
@@ -81,7 +82,7 @@ subtitle: 228 KB
 
 ```image
 plain: true
-src: ../logo/logo_blau(CMYK)_klein.png
+src: ../stuff/do-2.png
 ```
 
 ```download|span-3

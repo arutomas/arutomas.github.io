@@ -76,16 +76,11 @@ const pages = [
         title: 'Schreibweisen',
         content: pageLoader(() => import("./schreibweisen.md"))
         }, 
-          {
-            path: '/abkuerzungen',
-            title: 'Abkürzungen',
-            content: pageLoader(() => import("./abkuerzungen.md"))
+           {
+            path: '/texte',
+            title: 'Texte',
+            content: pageLoader(() => import("./texte.md"))
             },
-            {
-              path: '/texte',
-              title: 'Texte',
-              content: pageLoader(() => import("./texte.md"))
-              },
     ]
   },
 ];
