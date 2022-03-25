@@ -46,7 +46,6 @@ const pages = [
 
   {
     title: 'Typografie',
-    path: '/typografie',
     pages: [
     {
       path: '/typografie-im-web',
