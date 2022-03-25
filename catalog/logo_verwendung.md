@@ -13,7 +13,7 @@ plain: true
 
 ## Verwendung
 
-#### So macht ihr es richtig
+#### So darf das Logo laut Styleguide verwendet werden
 
 ```image
 src: ../stuff/do-1.png
@@ -28,11 +28,10 @@ span: 3
 ```
 
 ```hint|directive
-**RICHTIG**
 Weißes Logo auf blauen/farbigen Hintergrund oder blaues Logo auf weißen/hellen Hintergrund
 ```
 
-#### So macht ihr es falsch
+#### So darf das Logo laut Styleguide nicht verwendet werden
 
 ```image
 src: ../stuff/dont-1.png
@@ -47,7 +46,6 @@ span: 3
 ```
 
 ```hint|warning
-**FALSCH**
 Bitte das Logo **nicht im gleichen Farbton** nutzen sowie **nicht ohne Hintergrund auf Fotos** platzieren!
 ```
 
@@ -64,6 +62,5 @@ span: 3
 ```
 
 ```hint|warning
-**FALSCH**
 Bitte das Logo **nicht transformieren, drehen** oder **verzerren**!
 ```

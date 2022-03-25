@@ -4,7 +4,7 @@
 
 ```image
 plain: true
-src: ../logo/logo_blau(RGB)_klein.png
+src: ../stuff/do-1.png
 span: 4
 ```
 
@@ -44,8 +44,7 @@ subtitle: 266 KB
 #### Weiß
 
 ```image
-dark: true
-src: ../logo/logo_weiss(RGB)_klein.png
+src: ../stuff/do-2.png
 span: 4
 ```
 
