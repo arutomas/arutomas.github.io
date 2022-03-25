@@ -39,6 +39,6 @@ Das ist ein Beispiel mit einem Grauton auf weißem Grund:
   "paragraphs": ["15/28"],
   "background": "#333333";
   "font": "Futura Lt Bt",
-  "color": "#3",
+  "color": "#333333",
 }
 ```
