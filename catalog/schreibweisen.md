@@ -3,19 +3,18 @@
 - Bitte im offiziellen Gebrauch stets „connectiv! eSolutions GmbH“ oder „connectiv!“ verwenden, dabei an die Kleinschreibung und das Ausrufezeichen denken.
 
 ### Datum
-- TEST TEST
 - Am 17.09.2021
-- Von 17.09.2021 bis 24. September 2018, findet…
+- Von 17.09.2021 bis 24.09.2021, findet…
 
 ### Uhrzeiten
 - Ab 20:00 Uhr
 - Von 20:00 bis 03:00 Uhr
 - Bei Öffnungszeiten: Montag - Donnerstag: 09:00 – 01:00 Uhr
--- Zahlen werden von eins bis zwölf ausgeschrieben 
+- Zahlen werden von eins bis zwölf ausgeschrieben 
 
 ## Dienstleistungen
 
--- Wir sprechen von unseren Kernkompetenzen WEB und CRM und schreiben 
+Wir sprechen von unseren Kernkompetenzen WEB und CRM und schreiben 
 diese Begriffe daher stets in dieser Form mit je drei Großbuchstaben
 
 ### Für den WEB-Bereich wollen wir folgende Schreibweise nutzen:
@@ -29,7 +28,7 @@ diese Begriffe daher stets in dieser Form mit je drei Großbuchstaben
 - 
 
 
-### Lesefluss
+### Abkürzungen
 
 Bitte wenig bis keine Abkürzungen verwenden. Das ausgeschriebene Wort sorgt für besseren und angenehmeren Lesefluss:
 

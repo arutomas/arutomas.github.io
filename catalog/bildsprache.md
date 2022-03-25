@@ -20,4 +20,4 @@ span: 3
 **Layout für Social-News:** Xing, LinkedIn, Instagram, Facebook
 ```
 
-Für die Erstellung von grafisch aufwändigeren Mockups wendet euch bitte an die Grafikabteilung.
+Für die Erstellung von grafisch aufwändigeren Mockups, wendet euch bitte an die Grafikabteilung.
