@@ -5,6 +5,7 @@ in weiß:
 ```image
 src: ../stuff/connectx_weiss.png
 plain: true
+span: 1
 ```
 
 oder in blau:
@@ -12,6 +13,7 @@ oder in blau:
 ```image
 src: ../stuff/connectx_blau.png
 plain: true
+span: 1
 ```
 
 
