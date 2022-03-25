@@ -1,18 +1,19 @@
 Falls ihr Bedarf an weiteren Logos habt für unsere Produkte und Dienstleistungen, wendet euch bitte an die Grafikabteilung.
 
-## conect:x
-in weiß:
+# connect:x
+
+in blau:
 
 ```image
-src: ../stuff/connectx_weiss.png
+src: ../stuff/connectx_blau.png
 plain: true
 span: 2
 ```
 
-oder in blau:
+oder in weiß:
 
 ```image
-src: ../stuff/connectx_blau.png
+src: ../stuff/connectx_weiss.png
 plain: true
 span: 2
 ```
