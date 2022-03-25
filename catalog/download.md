@@ -4,7 +4,7 @@
 
 ```image
 plain: true
-src: ../stuff/do-2.png
+src: ../logo/logo_blau_klein.png
 span: 4
 ```
 
@@ -45,7 +45,7 @@ subtitle: 266 KB
 
 ```image
 plain: true
-src: ../stuff/do-1.png
+src: ../logo/logo_blau_weiss.png
 span: 4
 ```
 
@@ -82,7 +82,7 @@ subtitle: 228 KB
 
 ```image
 plain: true
-src: ../stuff/do-2.png
+src: ../logo/logo_blau_klein.png
 ```
 
 ```download|span-3
