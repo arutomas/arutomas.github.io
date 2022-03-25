@@ -36,7 +36,7 @@ Das ist ein Beispiel mit einem Grauton auf weißem Grund:
 
 ```type
 {
-  "paragraphs": ["15/28"],
+  "paragraphs": [15/28],
   "background": "#333333";
   "font": "Futura Lt Bt",
   "color": "#333333",
