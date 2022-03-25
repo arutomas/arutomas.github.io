@@ -38,24 +38,6 @@ const pages = [
     ]
   },
 
-
-  {
-    title: "Typografie",
-    path: "/typografie-web",
-    pages: [ 
-      {
-      path: '/typografie',
-      title: 'Typografie im Web',
-      content: pageLoader(() => import("./typografie_web.md"))
-      },
-      {
-        path: '/typografie-dokumente',
-        title: 'Typografie für Dokumente',
-        content: pageLoader(() => import("./typografie_dokumente.md"))
-        },
-    ]
-  },
-
   {
     title: 'Farbpalette',
     path: '/farben',
@@ -69,12 +51,12 @@ const pages = [
     {
       path: '/typografie-im-web',
       title: 'Typografie im Web',
-      content: pageLoader(() => import("./typografie_im_web.md"))
+      content: pageLoader(() => import("./typografie_web.md"))
       },
       {
         path: '/typografie-fuer-dokumente',
           title: 'Typografie für Dokumente',
-          content: pageLoader(() => import("./typografie_fuer_dokumente.md"))
+          content: pageLoader(() => import("./typografie_dokumente.md"))
           },
     ]
   },

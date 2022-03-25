@@ -62,9 +62,19 @@
               src: '/catalog/farben.md'
             },
             {
-              title: "Typografie",
-              path: "/typografie",   
-              src: '/catalog/typografie.md'
+            title: "Typografie",
+              pages: [
+                {
+                  title: 'Typografie im Web',
+                  path: "/typografie-im-web",   
+                  content: Catalog.pageLoader('/catalog/typografie_web.md')
+                },
+                {
+                  title: 'Typografie für Dokumente',
+                  path: "/typografie-fuer-dokumente",   
+                  content: Catalog.pageLoader('/catalog/typografie_dokumente.md')
+                },
+              ]
             },
             {
               title: "Bildsprache",
