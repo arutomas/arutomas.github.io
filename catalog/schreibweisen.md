@@ -31,10 +31,23 @@ diese Begriffe daher stets in dieser Form mit je drei Großbuchstaben
 
 ### Für den WEB-Bereich wollen wir folgende Schreibweise nutzen:
 
+```image
+src: ../stuff/WEB_cloud.png
+plain: true
+span: 2
+```
+
 - eCommerce-Lösung/en
 - Website/s (nicht Webseiten, Internetseiten o.ä.)
 
 
 ### Für den CRM-Bereich wollen wir folgende Schreibweise nutzen:
 
-- 
+```image
+src: ../stuff/CRM_cloud.png
+plain: true
+span: 2
+```
+
+- CRM kann auch ausgeschrieben werden: "Customer Relationship Management"
+- Dynamics 365 kann man auch kurz formulieren: "D365"
