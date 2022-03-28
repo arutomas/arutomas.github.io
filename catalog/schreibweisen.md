@@ -34,7 +34,6 @@ diese Begriffe daher stets in dieser Form mit je drei Großbuchstaben
 ```image
 src: ../stuff/WEB_cloud.png
 plain: true
-span: 1
 ```
 
 - eCommerce-Lösung/en
@@ -46,7 +45,6 @@ span: 1
 ```image
 src: ../stuff/CRM_cloud.png
 plain: true
-span: 1
 ```
 
 - CRM kann auch ausgeschrieben werden: "Customer Relationship Management"
