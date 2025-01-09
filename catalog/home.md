@@ -11,6 +11,6 @@ In unserem Styleguide wird diese eher visuelle Thematik durch die inhaltliche Ko
 Da diese Vorgaben nicht nur für offizielle Unternehmenspublikationen, sondern auch für Geschäftskorrespondenzen in Kundenprojekten gelten, richtet sich der connectiv! Styleguide an jeden einzelnen von euch.
 
 
-Bei detaillierten Rückfragen könnt ihr euch jederzeit gerne an die Grafiker wenden.
+Bei detaillierten Rückfragen könnt ihr euch jederzeit gerne an die Grafikabteilung wenden.
 
 

@@ -10,7 +10,7 @@ export default {
     lightColor: "#D6D6D6",
   
     // Used in PageHeader
-    pageHeadingBackground: "#2061a4",
+    pageHeadingBackground: "#0672AA",
     pageHeadingTextColor: "#fff",
   
     // Used in Menu and PageHeader to make sure the top parts have
@@ -23,10 +23,10 @@ export default {
   
     // Used in ResponsiveTabs (tab text), Download specimen (title text).
     // Typography: headings.
-    brandColor: "#2061a4",
+    brandColor: "#0672AA",
   
     sidebarColor: "#FFFFFF",
-    sidebarColorText: "#2061a4",
+    sidebarColorText: "#0672AA",
     sidebarColorTextActive: "#153F69",
     sidebarColorLine: "#EBEBEB",
     sidebarColorHeading: "#003B5C",

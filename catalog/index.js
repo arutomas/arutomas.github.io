@@ -3,6 +3,12 @@ import ReactDOM from "react-dom";
 import { Catalog, pageLoader } from "catalog";
 import theme from './theme'
 
+const App = () => {
+  useEffect(() => {
+    document.title = "connectiv! Styleguide"
+  }, [])
+};
+
 const pages = [
   {
     title: "connectiv! Styleguide",
@@ -40,9 +46,21 @@ const pages = [
 
   {
     title: 'Typografie',
-    path: '/typografie',
-    content: pageLoader(() => import("./typografie.md"))
+    path: "/typografie",
+    pages: [
+    {
+      path: '/typografie-im-web',
+      title: 'Typografie im Web',
+      content: pageLoader(() => import("./typografie_web.md"))
+      },
+      {
+        path: '/typografie-fuer-dokumente',
+          title: 'Typografie für Dokumente',
+          content: pageLoader(() => import("./typografie_dokumente.md"))
+          },
+    ]
   },
+
 
   {
     title: 'Bildsprache',
@@ -58,36 +76,11 @@ const pages = [
         title: 'Schreibweisen',
         content: pageLoader(() => import("./schreibweisen.md"))
         }, 
-          {
-            path: '/abkuerzungen',
-            title: 'Abkürzungen',
-            content: pageLoader(() => import("./abkuerzungen.md"))
+           {
+            path: '/texte',
+            title: 'Texte',
+            content: pageLoader(() => import("./texte.md"))
             },
-            {
-              path: '/texte',
-              title: 'Texte',
-              content: pageLoader(() => import("./texte.md"))
-              },
-              {
-                path: '/zielgruppe',
-                title: 'Zielgruppe',
-                content: pageLoader(() => import("./zielgruppe.md"))
-                },
-                {
-                  path: '/schreibstil',
-                  title: 'Schreibstil',
-                  content: pageLoader(() => import("./schreibstil.md"))
-                  },
     ]
   },
 ];
-
-ReactDOM.render(
-  <Catalog 
-    title="Catalog"
-    pages={pages} 
-    logoSrc={"/logo/logo_blau(RGB).svg"}
-    theme={theme}
-    />,
-  document.getElementById("catalog"),
-);
