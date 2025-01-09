@@ -4,7 +4,7 @@
 
 ```image
 plain: true
-src: ../logo/c! blau.png
+src: ../logo/c!_blau.png
 span: 4
 ```
 
@@ -13,31 +13,34 @@ span: 4
     "title": "c! Logo blau (.svg)",
     "filename": "c! blau.svg",
     "subtitle": "0,9 KB",
-    "url": "../logo/c! blau.svg"
+    "url": "../logo/c!_blau.svg"
 }
 ```
+
 ```download|span-3
 {
     "title": "c! Logo blau (.png)",
     "filename": "c! blau.png",
     "subtitle": "16,9 KB",
-    "url": "../logo/c! blau.png"
+    "url": "../logo/c!_blau.png"
 }
 ```
+
 ```download|span-3
 {
     "title": "c! Logo blau (.jpg)",
     "filename": "c! blau.jpg",
     "subtitle": "24 KB",
-    "url": "../logo/c! blau.jpg"
+    "url": "../logo/c!_blau.jpg"
 }
 ```
+
 ```download|span-3
 {
     "title": "c! Logo blau (.pdf)",
     "filename": "c! blau.pdf",
     "subtitle": "1,49 KB",
-    "url": "../logo/c! blau.pdf"
+    "url": "../logo/c!_blau.pdf"
 }
 ```
 
@@ -45,7 +48,7 @@ span: 4
 
 ```image
 plain: true
-src: ../logo/c! weiss.png
+src: ../logo/c!_weiss.png
 span: 4
 ```
 
@@ -54,31 +57,34 @@ span: 4
     "title": "c! Logo weiss (.svg)",
     "filename": "c! weiss.svg",
     "subtitle": "0,9 KB",
-    "url": "../logo/c! weiss.svg"
+    "url": "../logo/c!_weiss.svg"
 }
 ```
+
 ```download|span-3
 {
     "title": "c! Logo weiss (.png)",
     "filename": "c! weiss.png",
     "subtitle": "14 KB",
-    "url": "../logo/c! weiss.png"
+    "url": "../logo/c!_weiss.png"
 }
 ```
+
 ```download|span-3
 {
     "title": "c! Logo weiss (.jpg)",
-    "filename": "c! weiss.jpg",
+    "filename": "c!-weiss.jpg",
     "subtitle": "1,12 KB",
-    "url": "../logo/c! blau.jpg"
+    "url": "../logo/c!_weiss.jpg"
 }
 ```
+
 ```download|span-3
 {
     "title": "c! Logo weiss (.pdf)",
     "filename": "c! weiss.pdf",
     "subtitle": "1,48 KB",
-    "url": "../logo/c! weiss.pdf"
+    "url": "../logo/c!_weiss.pdf"
 }
 ```
 
