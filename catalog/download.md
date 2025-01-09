@@ -8,6 +8,7 @@ src: ../logo/c!_blau.png
 span: 4
 ```
 
+
 ```download|span-3
 {
     "title": "c! Logo blau (.svg)",
@@ -18,30 +19,21 @@ span: 4
 ```
 
 ```download|span-3
-{
-    "title": "c! Logo blau (.png)",
-    "filename": "c! blau.png",
-    "subtitle": "16,9 KB",
-    "url": "../logo/c!_blau.png"
-}
+    title: c! Logo blau (.png)
+    subtitle: 16,9 KB
+    url: ../logo/c!_blau.png
 ```
 
 ```download|span-3
-{
-    "title": "c! Logo blau (.jpg)",
-    "filename": "c! blau.jpg",
-    "subtitle": "24 KB",
-    "url": "../logo/c!_blau.jpg"
-}
+    title: c! Logo blau (.jpg)
+    subtitle: 24 KB
+    url: ../logo/c!_blau.jpg
 ```
 
 ```download|span-3
-{
-    "title": "c! Logo blau (.pdf)",
-    "filename": "c! blau.pdf",
-    "subtitle": "1,49 KB",
-    "url": "../logo/c!_blau.pdf"
-}
+    title: c! Logo blau (.pdf)
+    subtitle: 1,49 KB
+    url: ../logo/c!_blau.pdf
 ```
 
 #### Weiß
@@ -62,29 +54,24 @@ span: 4
 ```
 
 ```download|span-3
+    title: c! Logo weiss (.png)
+    subtitle: 14 KB
+    url: ../logo/c!_weiss.png
+```
+
+```download|span-3
 {
-    "title": "c! Logo weiss (.png)",
-    "filename": "c! weiss.png",
-    "subtitle": "14 KB",
-    "url": "../logo/c!_weiss.png"
+    title: c! Logo weiss (.jpg)
+    subtitle: 1,12 KB
+    url: ../logo/c!_weiss.jpg
 }
 ```
 
 ```download|span-3
 {
-    "title": "c! Logo weiss (.jpg)",
-    "filename": "c!-weiss.jpg",
-    "subtitle": "1,12 KB",
-    "url": "../logo/c!_weiss.jpg"
-}
-```
-
-```download|span-3
-{
-    "title": "c! Logo weiss (.pdf)",
-    "filename": "c! weiss.pdf",
-    "subtitle": "1,48 KB",
-    "url": "../logo/c!_weiss.pdf"
+    title: c! Logo weiss (.pdf)
+    subtitle: 1,48 KB
+    url: ../logo/c!_weiss.pdf
 }
 ```
 
