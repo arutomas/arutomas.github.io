@@ -83,7 +83,7 @@ span: 4
 ```image
 plain: true
 src: ../logo/logo_blau_klein.png
-span: 4
+span: 2
 ```
 
 ```download|span-3
@@ -124,7 +124,7 @@ subtitle: 266 KB
 ```image
 plain: true
 src: ../logo/logo_weiss_klein.png
-span: 4
+span: 2
 ```
 
 ```download|span-3
