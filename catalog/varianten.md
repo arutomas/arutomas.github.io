@@ -19,5 +19,4 @@ span: 2
 ```
 
 Anderweits schreiben wir diese Anhängsel auch unter unser Logo:
-- WEB | CRM
 - www.connectiv.de

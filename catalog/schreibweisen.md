@@ -1,5 +1,5 @@
 ### connectiv! Schreibweise
-- „c!“ oder „con!“ nicht als Abkürzung schreiben, da dies nur im internen Bereich zur Abkürzung benutzt wird. 
+- „c!“ oder „con!“ nicht als Abkürzung schreiben, da dies nur im internen Bereich zur Abkürzung benutzt wird oder auf News-Bildern
 - Bitte im offiziellen Gebrauch stets „connectiv! eSolutions GmbH“ oder „connectiv!“ verwenden, dabei an die Kleinschreibung und das Ausrufezeichen denken.
 
 ### Datum
@@ -26,13 +26,13 @@ Bitte wenig bis keine Abkürzungen verwenden. Das ausgeschriebene Wort sorgt fü
 
 ## Dienstleistungen
 
-Wir sprechen von unseren Kernkompetenzen WEB und CRM und schreiben 
-diese Begriffe daher stets in dieser Form mit je drei Großbuchstaben
+Wir sprechen von unseren Kernkompetenzen Digital Commerce und Customer Engagement.
+Daher schreiben wir DC bzw. CE als Abkürzungen.
 
-### Für den WEB-Bereich wollen wir folgende Schreibweise nutzen:
+### Für den DC-Bereich wollen wir folgende Schreibweise nutzen:
 
 ```image
-src: ../stuff/WEB_cloud.png
+src: ../stuff/DC_cloud.png
 plain: true
 ```
 
@@ -40,10 +40,10 @@ plain: true
 - Website/s (nicht Webseiten, Internetseiten o.ä.)
 
 
-### Für den CRM-Bereich wollen wir folgende Schreibweise nutzen:
+### Für den CE-Bereich wollen wir folgende Schreibweise nutzen:
 
 ```image
-src: ../stuff/CRM_cloud.png
+src: ../stuff/CE_cloud.png
 plain: true
 ```
 
