@@ -13,7 +13,7 @@ const pages = [
   {
     title: "connectiv! Styleguide",
     path: "/",   
-    content: pageLoader(() => import("./home.md"))
+    content: pageLoader(() => import("home.md"))
   },
 
   {
@@ -23,17 +23,17 @@ const pages = [
       {
       path: '/verwendung',
       title: 'Verwendung',
-      content: pageLoader(() => import("./logo_verwendung.md"))
+      content: pageLoader(() => import("logo_verwendung.md"))
       },
       {
         path: '/varianten',
         title: 'Varianten',
-        content: pageLoader(() => import("./varianten.md"))
+        content: pageLoader(() => import("varianten.md"))
         },
         {
           path: '/download',
           title: 'Downloads',
-          content: pageLoader(() => import("./download.md"))
+          content: pageLoader(() => import("download.md"))
           },
     ]
   },
