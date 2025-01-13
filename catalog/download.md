@@ -10,12 +10,9 @@ span: 4
 
 
 ```download|span-3
-{
-    "title": "c! Logo blau (.svg)",
-    "filename": "c! blau.svg",
-    "subtitle": "0,9 KB",
-    "url": "../logo/c!_blau.svg"
-}
+    title: c! Logo blau (.svg)
+    subtitle: 0,9 KB
+    url: ../logo/c!_blau.svg
 ```
 
 ```download|span-3
@@ -45,11 +42,9 @@ span: 4
 ```
 
 ```download|span-3
-{
-    "title": "c! Logo weiss (.svg)",
-    "filename": "c! weiss.svg",
-    "subtitle": "0,9 KB",
-    "url": "../logo/c!_weiss.svg"
+    title: c! Logo weiss (.svg)
+    subtitle: 0,9 KB
+    url: ../logo/c!_weiss.svg
 }
 ```
 
@@ -87,12 +82,9 @@ span: 2
 ```
 
 ```download|span-3
-{
-    "title": "connectiv Logo blau (.svg)",
-    "filename": "logo_blau(RGB).svg",
-    "subtitle": "10 KB",
-    "url": "../logo/logo_blau(RGB).svg"
-}
+    title: connectiv Logo blau (.svg)
+    subtitle: 10 KB
+    url: ../logo/logo_blau(RGB).svg
 ```
 
 ```download|span-3
@@ -128,12 +120,9 @@ span: 2
 ```
 
 ```download|span-3
-{
-    "title": "connectiv Logo weiß (.svg)",
-    "filename": "logo_weiss(RGB).svg",
-    "subtitle": "9,58 KB",
-    "url": "../logo/logo_weiss(RGB).svg"
-}
+    title: connectiv Logo weiß (.svg)
+    subtitle: 9,58 KB
+    url: ../logo/logo_weiss(RGB).svg
 ```
 
 ```download|span-3
