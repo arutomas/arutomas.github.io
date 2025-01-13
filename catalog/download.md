@@ -4,7 +4,7 @@
 
 ```image
     plain: true
-    src: ../logo/c!_blau.png
+    src: ../logo/c_blau.png
     span: 4
 ```
 
@@ -12,57 +12,57 @@
 ```download|span-3
     title: c! Logo blau (.svg)
     subtitle: 0,9 KB
-    url: ../logo/c!_blau.svg
+    url: ../logo/c_blau.svg
 ```
 
 ```download|span-3
     title: c! Logo blau (.png)
     subtitle: 16,9 KB
-    url: ../logo/c!_blau.png
+    url: ../logo/c_blau.png
 ```
 
 ```download|span-3
     title: c! Logo blau (.jpg)
     subtitle: 24 KB
-    url: ../logo/c!_blau.jpg
+    url: ../logo/c_blau.jpg
 ```
 
 ```download|span-3
     title: c! Logo blau (.pdf)
     subtitle: 1,49 KB
-    url: ../logo/c!_blau.pdf
+    url: ../logo/c_blau.pdf
 ```
 
 #### Weiß
 
 ```image
     plain: true
-    src: ../logo/c!_weiss.png
+    src: ../logo/c_weiss.png
     span: 4
 ```
 
 ```download|span-3
     title: c! Logo weiss (.svg)
     subtitle: 0,9 KB
-    url: ../logo/c!_weiss.svg
+    url: ../logo/c_weiss.svg
 ```
 
 ```download|span-3
     title: c! Logo weiss (.png)
     subtitle: 14 KB
-    url: ../logo/c!_weiss.png
+    url: ../logo/c_weiss.png
 ```
 
 ```download|span-3
     title: c! Logo weiss (.jpg)
     subtitle: 1,12 KB
-    url: ../logo/c!_weiss.jpg
+    url: ../logo/c_weiss.jpg
 ```
 
 ```download|span-3
     title: c! Logo weiss (.pdf)
     subtitle: 1,48 KB
-    url: ../logo/c!_weiss.pdf
+    url: ../logo/c_weiss.pdf
 ```
 
 
