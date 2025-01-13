@@ -5,7 +5,7 @@
 ```image
     plain: true
     src: logo/c_blau.png
-    span: 4
+    span: 2
 ```
 
 
@@ -38,7 +38,7 @@
 ```image
     plain: true
     src: logo/c_weiss.png
-    span: 4
+    span: 2
 ```
 
 ```download|span-3
@@ -73,7 +73,7 @@
 ```image
     plain: true
     src: logo/logo_blau_klein.png
-    span: 2
+    span: 4
 ```
 
 ```download|span-3
@@ -111,7 +111,7 @@
 ```image
     plain: true
     src: logo/logo_weiss_klein.png
-    span: 2
+    span: 4
 ```
 
 ```download|span-3
