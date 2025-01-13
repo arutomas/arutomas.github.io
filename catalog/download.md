@@ -5,7 +5,7 @@
 ```image
     plain: true
     src: logo/c_blau.png
-    span: 2
+    span: 4
 ```
 
 
@@ -38,7 +38,7 @@
 ```image
     plain: true
     src: logo/c_weiss.png
-    span: 2
+    span: 4
 ```
 
 ```download|span-3
