@@ -99,3 +99,31 @@ Das ist ein Beispiel mit einem Grauton auf weißem Grund:
   ]
 }
 ```
+
+# Newsletter
+
+Für unseren Newsletter nutzen wir die Arial als Fallback-Font in den Schriftschnitten: "" und "".
+
+Überschrift:
+
+```type
+{
+  "headings": [20],
+  "font": "Roboto",
+  "weight": 700,
+  "color": "#333333",
+  "background":"FFFFFF",
+}
+```
+
+Text:
+
+```type
+{
+  "headings": [12],
+  "font": "Roboto",
+  "weight": 400,
+  "color": "#333333",
+  "background": "#0672AA",
+}
+```
