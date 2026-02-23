@@ -102,13 +102,14 @@ Das ist ein Beispiel mit einem Grauton auf weißem Grund:
 
 # Newsletter
 
-Für unseren Newsletter nutzen wir die Arial als Fallback-Font in den Schriftschnitten: "" und "".
-
-Überschrift:
+Für unseren Newsletter nutzen wir die Arial als Fallback-Font in den Schriftschnitten: "Bold" und "Regular".
+Ansonsten wird die Futura Md BT Medium, Futura Md BT Bold und Futura Bk BT genutzt.
+ 
+**Überschrift**
 
 ```type
 {
-  "headings": [20],
+  "headings": [Bold],
   "font": "Roboto",
   "weight": 700,
   "color": "#333333",
@@ -116,14 +117,14 @@ Für unseren Newsletter nutzen wir die Arial als Fallback-Font in den Schriftsch
 }
 ```
 
-Text:
+**Text**
 
 ```type
 {
-  "headings": [12],
+  "headings": [Regular],
   "font": "Roboto",
   "weight": 400,
   "color": "#333333",
-  "background": "#0672AA",
+  "background": "#FFFFFF",
 }
 ```
