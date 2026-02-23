@@ -11,6 +11,10 @@ src: ../stuff/connectiv_logo_schutzraum.jpg
 plain: true
 ```
 
+Die Höhe des Schutzraumes um das Logo ist ungefähr 30 % der Höhe des Logos. 
+Also wenn das Logo 300px hoch ist, dann ist der Abstand überall herum 90px.
+
+
 ## Verwendung
 
 #### So darf das Logo laut Styleguide verwendet werden

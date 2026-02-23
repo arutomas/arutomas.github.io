@@ -109,7 +109,6 @@ Ansonsten wird die Futura Md BT Medium, Futura Md BT Bold und Futura Bk BT genut
 
 ```type
 {
-  "headings": [Bold],
   "font": "Roboto",
   "weight": 700,
   "color": "#333333",
@@ -121,7 +120,6 @@ Ansonsten wird die Futura Md BT Medium, Futura Md BT Bold und Futura Bk BT genut
 
 ```type
 {
-  "headings": [Regular],
   "font": "Roboto",
   "weight": 400,
   "color": "#333333",
