@@ -52,9 +52,9 @@ export default {
       "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAAAAACoWZBhAAAAFklEQVQI12NQBQF2EGAghQkmwXxSmADZJQiZ2ZZ46gAAAABJRU5ErkJggg==",
   
     // Fonts
-    fontFamily: "'Roboto', sans-serif",
-    fontHeading: "'Futura Md Bt', sans-serif",
-    fontMono: "'Roboto Mono', monospace",
+    fontFamily: "'Jost', sans-serif",
+    fontHeading: "'Jost Bold', sans-serif",
+    fontMono: "'JetBrains Mono', monospace",
   
     // Base font size in pixels.
     baseFontSize: 16,
