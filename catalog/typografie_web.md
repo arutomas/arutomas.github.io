@@ -72,3 +72,17 @@ In Ausnahmefällen kann auch die **Jost Medium** also Schriftstärke 500 genutzt
   ]
 }
 ```
+
+# Monospace
+Für Code-Schnipsel kann die **Roboto Mono** mit Schriftstärke 400 genutzt werden.
+Anwendungsfälle wären z. B. kundenorientierte Dokumentationen, wo dann Code-Schnipsel eingebaut werden.
+
+```type
+{
+  "color": "#333333",
+  "font": "Roboto Mono",
+  "paragraphs": [
+    { "label": "Paragraph", "value": "20/28", "font-weight": 400, }
+  ]
+}
+```

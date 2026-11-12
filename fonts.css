@@ -60,7 +60,20 @@
      src: url('../fonts/jost-medium/webfont/jost-v20-latin_latin-ext-500italic.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
           url('../fonts/jost-medium/jost-medium-italic.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
    }
+
+/*ROBOTO MONO*/
+/* roboto-mono-regular - latin */
+@font-face {
+     font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+     font-family: 'Roboto Mono';
+     font-style: normal;
+     font-weight: 400;
+     src: url('../fonts/roboto-mono/roboto-mono-v31-latin-regular.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+          url('../fonts/roboto-mono/roboto-mono.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+   }
+   
   
+/*------------------------------------------------------*/
 
    h1, h2, h3, h4, h5, h6 {
      font-family: 'Jost', sans-serif !important;
