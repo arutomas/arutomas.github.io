@@ -8,9 +8,26 @@ name: 'connectiv! Blau'
 ```
 
 ```color
+value: '#0672AA'
+name: 'connectiv! Blau'
+```
+
+```color
 value: '#FFFFFF'
 name: 'Weiß'
 ```
+
+#### Sekundärfarbe / Verlauf
+```color
+value: '#68C7F3'
+name: 'connectiv! Hellblau'
+```
+
+```color
+value: 'linear-gradient(160deg, #0672AA 25%, #68C7F3 100%)'
+name: 'connectiv! Verlauf'
+```
+
 
 #### Graustufen
 

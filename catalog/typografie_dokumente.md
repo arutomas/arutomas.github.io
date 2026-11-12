@@ -10,7 +10,7 @@ Entweder blaue Schrift auf weißem Grund:
   "font": "Jost",
   "background":"#FFFFFF",
   "color": "#0672AA",
-  "weight": 500,
+  "weight": 700,
 }
 ```
 
@@ -22,7 +22,7 @@ Oder weiße Schrift auf blauem Grund:
   "font": "Jost",
   "background": "#0672AA",
   "color": "#FFFFFF",
-  "weight": 500,
+  "weight": 700,
 }
 ```
 
@@ -31,8 +31,6 @@ Oder weiße Schrift auf blauem Grund:
 Für Fließtext nutzen wir die **Jost Regular**.
 Farbe ist abhängig von der Nutzungsart. Entweder unser Firmenblau, ein Grauton oder
 Weiß auf einem anderen Hintergrund.
-
-Das ist ein Beispiel mit einem Grauton auf weißem Grund:
 
 ```type
 {

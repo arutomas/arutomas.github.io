@@ -30,10 +30,8 @@ Oder weiße Schrift auf blauem Grund:
 # Paragraph / Fließtext
 
 Für Fließtext nutzen wir die **Jost Regular** also Schriftstärke 400.
-Farbe ist abhängig von der Nutzungsart. Entweder unser Firmenblau, ein Grauton oder
-Weiß auf einem anderen Hintergrund.
-
-Das ist ein Beispiel mit einem Grauton auf weißem Grund:
+Farbe ist abhängig von der Nutzungsart. Entweder unser Firmenblau, ein Grauton 
+oder Weiß auf einem anderen Hintergrund.
 
 ```type
 {
@@ -43,17 +41,18 @@ Das ist ein Beispiel mit einem Grauton auf weißem Grund:
 }
 ```
 
-# Beispiel Textblock
+In Ausnahmefällen kann auch die **Jost Medium** also Schriftstärke 500 genutzt werden.
 
 ```type
 {
-  "color": "#0672AA",
+  "paragraphs": ["20/28"],
   "font": "Jost",
-  "headings": [
-    { "label": "H2", "value": 24, },
-  ],
+  "weight": 500,
+  "color": "#333333",
 }
 ```
+
+# Beispiel Textblock
 
 ```type
 {
