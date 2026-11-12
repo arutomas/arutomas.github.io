@@ -8,11 +8,6 @@ name: 'connectiv! Blau'
 ```
 
 ```color
-value: '#0672AA'
-name: 'connectiv! Blau'
-```
-
-```color
 value: '#FFFFFF'
 name: 'Weiß'
 ```
@@ -50,8 +45,8 @@ colors:
 ### Druckfarben/Sonderfarben
 
 **CMYK**: C: 87% / M: 47% / Y: 12% / K: 1% 
-**PANTONE**: tbd (300)
-**HKS**: tbd (44)
-**RAL**: tbd (5015)
+**PANTONE**: 300
+**HKS**: 44
+**RAL**: 5015
 **LAB**: L: 45 / a: -11 / b: -38
 **HSB**: H: 200° / S: 96% / B: 67%
