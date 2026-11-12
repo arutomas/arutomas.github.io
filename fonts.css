@@ -61,3 +61,8 @@
           url('../fonts/jost-medium/jost-medium-italic.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
    }
   
+
+   h1, h2, h3, h4, h5, h6 {
+     font-family: 'Jost', sans-serif !important;
+     font-weight: 700 !important;
+   }
