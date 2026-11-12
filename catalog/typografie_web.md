@@ -72,30 +72,3 @@ In Ausnahmefällen kann auch die **Jost Medium** also Schriftstärke 500 genutzt
   ]
 }
 ```
-
-# Newsletter
-
-Für unseren Newsletter nutzen wir die Roboto als Fallback-Font in den Schriftschnitten: "Bold" und "Regular".
-Ansonsten wird die Jost Bold und Jost Regular genutzt.
- 
-**Überschrift**
-
-```type
-{
-  "font": "Roboto",
-  "weight": 700,
-  "color": "#333333",
-  "background":"FFFFFF",
-}
-```
-
-**Text**
-
-```type
-{
-  "font": "Roboto",
-  "weight": 400,
-  "color": "#333333",
-  "background": "#FFFFFF",
-}
-```
