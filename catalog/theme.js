@@ -54,7 +54,7 @@ export default {
     // Fonts
     fontFamily: "'Jost', sans-serif",
     fontHeading: "'Jost Bold', sans-serif",
-    fontMono: "'JetBrains Mono', monospace",
+    fontMono: "'Roboto Mono', monospace",
   
     // Base font size in pixels.
     baseFontSize: 16,
