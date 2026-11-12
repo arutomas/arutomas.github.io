@@ -30,8 +30,8 @@ Oder weiße Schrift auf blauem Grund:
 # Paragraph / Fließtext
 
 Für Fließtext nutzen wir die **Jost Regular** also Schriftstärke 400.
-Farbe ist abhängig von der Nutzungsart. Entweder unser Firmenblau, ein Grauton 
-oder Weiß auf einem anderen Hintergrund.
+Farbe ist abhängig von der Nutzungsart. Entweder unser Firmenblau, 
+ein Grauton oder Weiß auf einem anderen Hintergrund.
 
 ```type
 {
@@ -68,7 +68,7 @@ In Ausnahmefällen kann auch die **Jost Medium** also Schriftstärke 500 genutzt
   "color": "#333333",
   "font": "Jost",
   "paragraphs": [
-    { "label": "Paragraph", "value": "20/28", "font-weight": 400, }
+    { "label": "Paragraph", "value": "16/24", "font-weight": 400, }
   ]
 }
 ```
@@ -82,7 +82,7 @@ Anwendungsfälle wären z. B. kundenorientierte Dokumentationen, wo dann Code-Sc
   "color": "#333333",
   "font": "Roboto Mono",
   "paragraphs": [
-    { "label": "Paragraph", "value": "20/28", "font-weight": 400, }
+    { "label": "Code-Schnipsel", "value": "16/24", "font-weight": 400, }
   ]
 }
 ```
