@@ -35,7 +35,7 @@ ein Grauton oder Weiß auf einem anderen Hintergrund.
 
 ```type
 {
-  "paragraphs": ["20/28"],
+  "paragraphs": ["16/22"],
   "font": "Jost",
   "color": "#333333",
 }
@@ -45,7 +45,7 @@ In Ausnahmefällen kann auch die **Jost Medium** also Schriftstärke 500 genutzt
 
 ```type
 {
-  "paragraphs": ["20/28"],
+  "paragraphs": ["16/22"],
   "font": "Jost",
   "weight": 500,
   "color": "#333333",
@@ -68,7 +68,7 @@ In Ausnahmefällen kann auch die **Jost Medium** also Schriftstärke 500 genutzt
   "color": "#333333",
   "font": "Jost",
   "paragraphs": [
-    { "label": "Paragraph", "value": "16/24", "font-weight": 400, }
+    { "label": "Paragraph", "value": "16/22", "font-weight": 400, }
   ]
 }
 ```
@@ -82,7 +82,7 @@ Anwendungsfälle wären z. B. kundenorientierte Dokumentationen, wo dann Code-Sc
   "color": "#333333",
   "font": "Roboto Mono",
   "paragraphs": [
-    { "label": "Code-Schnipsel", "value": "16/24", "font-weight": 400, }
+    { "label": "Code-Schnipsel", "value": "14/20", "font-weight": 400, }
   ]
 }
 ```
