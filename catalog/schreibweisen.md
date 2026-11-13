@@ -32,7 +32,7 @@ Daher schreiben wir DC bzw. CE als Abkürzungen.
 ### Für den DC-Bereich wollen wir folgende Schreibweise nutzen:
 
 ```image
-src: ../stuff/DC_cloud.png
+src: ../stuff/DC_Cloud.png
 plain: true
 ```
 
@@ -43,7 +43,7 @@ plain: true
 ### Für den CE-Bereich wollen wir folgende Schreibweise nutzen:
 
 ```image
-src: ../stuff/CE_cloud.png
+src: ../stuff/CE_Cloud.png
 plain: true
 ```
 
